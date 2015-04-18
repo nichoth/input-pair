@@ -14,7 +14,7 @@
   "author": "Nick Thomas <nichoth@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nichoth/generic-form.git"
+    "url": "https://github.com/nichoth/input-pair.git"
   },
   "license": "ISC",
   "peerDependencies": {},
